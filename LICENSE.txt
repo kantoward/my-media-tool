@@ -1,0 +1,2 @@
+For personal use. You may modify and use this project for your own purposes.
+Third-party dependencies retain their respective licenses.
